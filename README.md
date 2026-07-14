@@ -1,0 +1,2 @@
+# niagaraaurahotel
+Static site: niagaraaurahotel
